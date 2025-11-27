@@ -1,6 +1,6 @@
 ---
 title: "Statement Crafting"
-date: "2025-11-27T07:48:35.831199Z"
+date: "2025-11-27T08:27:39.797516Z"
 workshop_phase: 6
 exported_from: "advisor.digisavvy.dev"
 ---
@@ -1420,6 +1420,248 @@ WordPress/MemberPress are just the tools you use to deliver that value.
 **Does this make sense? Which of these 5 feels most natural to you?**
 
 And should I now compile everything into your complete positioning guide?
+
+---
+
+### You (07:49 AM)
+
+this is all makes sense, it's great. Positioning #1 seems the best fit, seems a little "soupy" but let's go witht hit
+
+---
+
+### Workshop Advisor (07:50 AM)
+
+**LOVE IT, ALEX!** 
+
+You're right that #1 is a bit "soupy" - it's trying to do too much in one sentence. Let me tighten it up for you:
+
+---
+
+## 🎯 **YOUR POSITIONING - CLEANED UP VERSION**
+
+### **ORIGINAL (Too soupy):**
+> "I'm the tech partner who keeps membership platforms running smoothly for coaches with niche communities - so you stop losing $1,500-$5,000 when subscriptions break or email automation fails during launches. I exclusively work with WordPress + MemberPress + ActiveCampaign because they give coaches the flexibility and control they need without being locked into expensive platforms."
+
+### **TIGHTENED VERSION:**
+> "I'm the tech partner for coaches running membership communities who need their WordPress + MemberPress + email automation to work together seamlessly - especially during launches."
+
+**Then add the "why it matters" as a separate beat:**
+> "My clients were typically losing $1,500-$5,000 when subscriptions broke or email sequences failed during launches. Now their tech just works."
+
+---
+
+## ✅ **WHY THIS IS BETTER:**
+
+**First sentence:** WHO you serve + WHAT you do + WHEN it matters most
+- Clear
+- Specific
+- Not trying to cram everything in
+
+**Second sentence:** The financial impact (use this in sales conversations, not always in marketing)
+- Quantifies the problem
+- Shows before/after
+- Justifies your pricing
+
+---
+
+# 📥 **YOUR COMPLETE POSITIONING GUIDE**
+
+Let me compile everything we've built together. Here's your full implementation package:
+
+---
+
+## **I. YOUR CORE POSITIONING**
+
+**One-sentence version (use everywhere):**
+> "I'm the tech partner for coaches running membership communities who need their WordPress + MemberPress + email automation to work together seamlessly - especially during launches."
+
+**With impact statement (use in sales conversations):**
+> "I'm the tech partner for coaches running membership communities who need their WordPress + MemberPress + email automation to work together seamlessly - especially during launches. My clients were typically losing $1,500-$5,000 when subscriptions broke or email sequences failed. Now their tech just works."
+
+---
+
+## **II. YOUR IDEAL CLIENT PROFILE**
+
+**WHO:**
+- Coaches running membership communities
+- Serving niche audiences (not broad "business coaching")
+- 100-500 paying members
+- Charging $97-$297/month per member
+- MRR: $10K-$150K/month
+
+**THEIR PROBLEMS:**
+1. **Launch failures:** Subscriptions don't process, members don't get added to sequences
+2. **Integration headaches:** WordPress + MemberPress + ActiveCampaign don't talk to each other
+3. **Revenue loss:** Losing $1,500-$5,000 during downtime/broken launches
+4. **Platform limitations:** Outgrowing Kajabi/Teachable but don't know how to build custom
+5. **Time drain:** Spending hours firefighting tech instead of serving members
+
+**WHAT THEY'RE BUYING:**
+- ✅ Reliability during high-stakes launches
+- ✅ Custom systems that fit their business model
+- ✅ Ongoing tech partnership (not one-off projects)
+- ✅ Peace of mind that tech won't break when it matters
+- ✅ Revenue protection ($1,500-$5,000 per incident prevented)
+
+**YOUR PRICING:**
+- $2,500-$5,000/month retainers (ongoing partnership)
+- One-time builds: $5K-$15K+ (platform migrations, custom builds)
+
+---
+
+## **III. WEBSITE/MARKETING ASSETS**
+
+### **Homepage Hero Section:**
+
+**Headline:**
+> "Your Membership Platform Shouldn't Break Every Time You Launch"
+
+**Subheadline:**
+> "I'm the tech partner for coaches running membership communities who need their WordPress + MemberPress + email automation to work together seamlessly. My clients were losing $1,500-$5,000 during launches before we started working together."
+
+**CTA Button:** "Book a Tech Audit Call"
+
+---
+
+### **LinkedIn Headline:**
+> "Tech Partner for Coaches Running Membership Communities | WordPress + MemberPress + ActiveCampaign | ActiveCampaign Certified Consultant"
+
+---
+
+### **Email Signature:**
+> Alex [Last Name]  
+> Tech Partner for Membership Communities  
+> DigiSavvy  
+> "I keep WordPress + MemberPress + email automation running smoothly for coaches - so your launches don't break."
+
+---
+
+### **Social Media Bio (Twitter/Instagram):**
+> "Tech partner for coaches running membership communities. I make sure your WordPress + MemberPress + ActiveCampaign actually works together - especially during launches."
+
+---
+
+## **IV. YOUR ELEVATOR PITCH (30 SECONDS)**
+
+**"So Alex, what do you do?"**
+
+> "You know how coaches running membership communities constantly deal with their tech breaking - like subscriptions not processing or email automations failing during launches?
+>
+> I'm the tech partner who keeps their WordPress + MemberPress + email systems running smoothly so they can focus on serving their community instead of firefighting tech emergencies.
+>
+> My clients were typically losing $1,500-$5,000 during downtime before we started working together. Now their tech just works."
+
+**Practice this until it feels natural!**
+
+---
+
+## **V. OUTREACH TEMPLATES**
+
+### **COLD EMAIL TEMPLATE:**
+
+**Subject:** Quick question about [their membership platform]
+
+> Hi [Name],
+>
+> I noticed you're running [their membership/program name] for [their niche community] - congrats on building that!
+>
+> Quick question: have you experienced issues with subscriptions not processing correctly, or members not getting added to your email sequences during launches?
+>
+> I work exclusively with coaches running membership communities on WordPress + MemberPress, and that's one of the most common (and expensive) issues I see. Most of my clients were losing $1,500-$5,000 during downtime before we got their tech stack working together properly.
+>
+> If you're dealing with anything like that, I'd be happy to do a quick 15-minute tech audit to identify where your systems might be vulnerable. No charge, no strings attached.
+>
+> Worth a conversation?
+>
+> Best,  
+> Alex  
+> DigiSavvy
+
+---
+
+### **WARM REFERRAL FOLLOW-UP:**
+
+**Subject:** [Mutual Contact] suggested we connect
+
+> Hi [Name],
+>
+> [Mutual Contact] mentioned you're running a membership community for [their niche] and might be experiencing some tech headaches with your WordPress setup.
+>
+> I specialize in keeping membership platforms running smoothly for coaches - specifically the WordPress + MemberPress + email automation stack. Most of my clients come to me after losing revenue during launches because their systems weren't talking to each other properly.
+>
+> [Mutual Contact] thought it might be worth us connecting. Would a 15-minute call make sense?
+>
+> Best,  
+> Alex
+
+---
+
+### **LINKEDIN CONNECTION REQUEST:**
+
+> Hi [Name] - I noticed you're running [membership/program name] for [niche]. I work with coaches running membership communities to keep their tech stack (WordPress + MemberPress + email) running smoothly during launches. Would love to connect!
+
+---
+
+## **VI. OBJECTION HANDLERS**
+
+### **"Isn't that too narrow?"**
+
+> "Actually, it's the opposite. Before I specialized, I was competing with every WordPress developer on Upwork charging $50/hour. Now I'm the ONLY person prospects talk to who exclusively works with coaches running membership communities.
+>
+> When someone's subscription processing breaks during a launch and they're losing $3,000 in revenue, they don't want a 'generalist WordPress developer' - they want someone who's solved this exact problem 50 times before. That's worth $2,500/month to them.
+>
+> Plus, my clients refer me constantly because I'm so specific. I get 90% of my business through referrals now."
+
+---
+
+### **"Why WordPress instead of Kajabi/Teachable?"**
+
+> "Those platforms are great for getting started quickly, but here's what I hear from coaches constantly: 'Kajabi won't let me do X' or 'Teachable's automation is too limited.'
+>
+> I work exclusively with WordPress because it allows me to build membership platforms that bend to fit YOUR business model - instead of forcing you to bend to fit a platform's limitations. If you need custom drip content logic, specific community features, or complex email automation, WordPress gives us that flexibility.
+>
+> My clients typically tried Kajabi first, outgrew it, and came to me to build something custom that actually works the way they need it to."
+
+---
+
+### **"Can you work with other platforms?"**
+
+> "I focus exclusively on WordPress + MemberPress because when you're dealing with subscription processing, drip content, and email automation all talking to each other, you need deep expertise in one stack - not surface knowledge of many.
+>
+> My clients come to me specifically because I've solved their exact WordPress + MemberPress problems 50 times before. That depth is what justifies my premium rates and why they trust me during high-stakes launches."
+
+---
+
+## **VII. YOUR 30-DAY ACTION PLAN**
+
+### **WEEK 1: UPDATE YOUR PRESENCE**
+
+✅ **Day 1-2:** Update LinkedIn headline and profile summary  
+✅ **Day 3-4:** Draft new homepage hero section (don't publish yet - just draft)  
+✅ **Day 5-7:** Update email signature and social media bios
+
+---
+
+### **WEEK 2: ACTIVATE YOUR NETWORK**
+
+✅ **Day 8-10:** Email 3 past clients you enjoyed working with asking for referrals  
+✅ **Day 11-12:** Join 1-2 communities where coaches hang out (MemberPress Users group, Course Creators groups)  
+✅ **Day 13-14:** Answer 3-5 questions in those communities (be helpful, don't pitch)
+
+---
+
+### **WEEK 3: TEST YOUR MESSAGING**
+
+✅ **Day 15-17:** Practice elevator pitch - record yourself, refine it  
+✅ **Day 18-20:** Send 5 cold outreach emails using the template  
+✅ **Day 21:** Track responses - what language resonated? What fell flat?
+
+---
+
+### **WEEK 4: REFINE & SCALE**
+
+✅ **Day 22-24:** Update website homepage based on what's working  
+✅ **Day 25-27:** Create 1 piece of content showcasing expertise (blog post,
 
 ---
 
